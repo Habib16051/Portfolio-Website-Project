@@ -9,9 +9,8 @@ Here is the home page of my portfolio project:
 It's an interactive web-resume website where Python, Django, HTML and CSS are used. There are are some functionality are there such as : 
 Services, Skills and Contact, Hire me etc.
 
-Have a look Kindly:
-Services:
 
+Services:
 ![image](https://user-images.githubusercontent.com/39822204/236418590-2d80d28b-8fab-4efd-985f-f53e9f4fb241.png)
 
 Skills:
