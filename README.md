@@ -1,6 +1,6 @@
 # web-resume
 Hello everyone
-Check my Portfolio Website here: http://habibmbstu.pythonanywhere.com/contact/
+Check out my Portfolio Website here: http://habibmbstu.pythonanywhere.com/contact/
 
 Here is the home of my portfolio project:
 ![image](https://user-images.githubusercontent.com/39822204/236418023-fa44048c-4438-4681-9fa0-29cd62911467.png)
